@@ -40,8 +40,8 @@ This project demonstrates how keylogging attacks work by:
 ## 📂 Project Structure
 
 
-Encrypted-Keylogger-PoC/
-│
+Encrypted-Keylogger-PoC
+
 ├── poc_keylogger.py         # Main script
 ├── decrypt_logs             # Auto-generated encryption key
 ├── requirements.txt         # Python dependencies
